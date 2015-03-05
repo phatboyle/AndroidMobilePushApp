@@ -1,4 +1,4 @@
-package com.amazonaws.androidtest;
+package com.example.patboyle.usbtest;
 
 import java.io.IOException;
 
